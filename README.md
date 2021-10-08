@@ -1,6 +1,6 @@
 # Tableau-dashboard
  
-# my interactive dash board on KPMG virtual internship
+# My interactive dash board on KPMG virtual internship
 -------------------------------------------------------
 Data set of a hypothetical company called SPRocket Central Pty Ltd was given for analysis.
 The project was to analyze the dataset that would help SPRocket Central Pty Ltd grow its business and to devise an optimum marketing strategy for the company.
