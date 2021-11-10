@@ -16,6 +16,8 @@ Project Modules: Data Insights through the following aspects:
 And finally, present the analysis via interactive report which was done using Tableau
 
 
-![Report1](D:\Veena computer Back Up\Power Bi\pngs)
+[![1599696717774.png](https://i.postimg.cc/rpFMzQ8x/1599696717774.png)](https://postimg.cc/tsfLMdn4)
+
+
 To view my tableau interactive dashboard, please follow my Tableau Viz
 https://lnkd.in/grcze2v
