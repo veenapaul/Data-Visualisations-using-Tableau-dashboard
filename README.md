@@ -16,7 +16,7 @@ Project Modules: Data Insights through the following aspects:
 And finally, present the analysis via interactive report which was done using Tableau
 
 
-[![1599696717774.png](https://i.postimg.cc/rpFMzQ8x/1599696717774.png)](https://postimg.cc/tsfLMdn4)
+https://github.com/veenapaul/Data-Visualisations-using-Tableau-dashboard/blob/master/KPMG_Analysis.png
 
 
 To view my tableau interactive dashboard, please follow my Tableau Viz
